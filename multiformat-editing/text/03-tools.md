@@ -43,6 +43,8 @@ What are the big advantages of text-only editing in markdown?
 
 Text-only editors can be online (used in a browser) or offline. Some of the most powerful text-only editors are actually designed for writing software code, like Sublime Text, Atom, Brackets and Visual Studio Code (which can all be used for free).
 
+One of the most powerful features of text editors is regular-expression search-and-replace, or regex. This lets you search and replace *patterns* of text and not just fixed words.
+
 ### Collaborative editing
 
 Collaborative editing completely changes the way we write, edit and deliver documents.
@@ -84,6 +86,8 @@ As you can tell by now, working with new editing tools means navigating new kind
 For instance, if you're doing heavy development editing, you want to be in a creative headspace, not thinking about the technicalities of perfect structure and tagging. Working in Google Docs is probably best, especially if you're collaborating with others.
 
 But if you're doing copy editing or implementing proof corrections, it can be far better to work in a plain-text editor, with a monospace font (where all characters have the same width), so that structure and errors are easier to spot, without the distractions of design and formatting.
+
+That is, when you're *creating*, you need to use whatever tool feels most natural – to find the shortest distance between your brain and the words. But when you're preparing a manuscript for production, your brain is focused on structure and accuracy, and markdown comes into its own. Design disappears and you can really control exactly what goes into the text.
 
 ## Open software and standards
 
